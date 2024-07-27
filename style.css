@@ -65,7 +65,7 @@ input::placeholder {
     outline: none;
     border-color: #FCAF02;
     border-radius: 15px;
-    
+    color: #FCAF02;
 }
 input{
     background-color: black;
@@ -78,6 +78,7 @@ input{
     outline: none;
     border-color: #FCAF02;
     border-radius: 15px;
+    color: #FCAF02;
 }
 #num,#place{
     width: 44%;
@@ -87,6 +88,7 @@ input{
     outline: none;
     border-color: #FCAF02;
     border-radius: 15px;
+    color: #FCAF02;
 }
 #place{
     margin-left: 54px;
